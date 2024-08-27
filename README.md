@@ -17,8 +17,8 @@ The strategies are backtested using historical stock data to evaluate their perf
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/algorithmic-trading-project.git
-   cd algorithmic-trading-project
+   git clone https://github.com/FrostNT1/trading-algos.git
+   cd trading-algos
    ```
 
 2. Install the required dependencies:
@@ -31,9 +31,14 @@ The strategies are backtested using historical stock data to evaluate their perf
 - `src/strategies/`: Python modules containing trading strategy implementations
 - `src/utils/`: Utility functions for data handling and analysis
 
+## Usage
+
+To run a specific strategy or backtest, navigate to the appropriate notebook in the `notebooks/` directory and follow the instructions provided.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
+
 This project is open source and available under the [MIT License](LICENSE).
