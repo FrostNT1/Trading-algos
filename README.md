@@ -5,9 +5,11 @@ This project demonstrates various algorithmic trading strategies using Python an
 ## Overview
 
 This repository contains implementations of several trading strategies, including:
-
 - Simple Moving Average (SMA) Crossover
-- [Add other strategies as you implement them]
+- Relative Strength Index (RSI) Strategy
+- Bollinger Bands Strategy
+- Custom Strategy Optimization
+- Multiple Strategy Combination
 
 The strategies are backtested using historical stock data to evaluate their performance.
 
